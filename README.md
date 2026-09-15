@@ -1,5 +1,5 @@
-# lazy-loading-json-data-to-listview-net-maui
-Lazy loading of data from JSON to .NET MAUI ListView
+# Lazy loading of data from JSON to .NET MAUI ListView (SfListView)
+This example describes how to lazy load data from JSON to .NET MAUI ListView
 
 ## XAML 
  <syncfusion:SfListView x:Name="listView" 
